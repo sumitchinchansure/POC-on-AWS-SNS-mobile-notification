@@ -1,1 +1,1 @@
-# POC-on-AWS-SNS-mobile-notification-
+# POC-on-AWS-SNS-mobile-notification
